@@ -1,9 +1,6 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)    
 # Matplotlib Examples   
 
-## Introduction to Pandas      
- 
-
 ## Reference   
 
 
