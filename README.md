@@ -2,7 +2,8 @@
 # Matplotlib Examples   
 
 ## Reference   
-[Matplotlib - Official](https://matplotlib.org/)
+[Matplotlib - Official](https://matplotlib.org/)     
+[Matplotlib - Example](https://matplotlib.org/gallery/index.html)   
 
 ## Install Instructions
 * [Aconda Pythn - Primary ](https://anaconda.org/)
